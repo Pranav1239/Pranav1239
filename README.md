@@ -13,7 +13,7 @@ I call the picturesque city of **Vizag in Andhra Pradesh, India**, my home. If y
 
 **Skills** :
 <br>
-- HTML, CSS, **JavaScript**, **TypeScript**
+- HTML, CSS, **JavaScript**, **TypeScript** , **React**
 - Tailwind CSS, Bootstrap, Sass
 - **Git** version control
 - Firebase for real-time web apps
