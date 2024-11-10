@@ -23,4 +23,3 @@ I call the picturesque city of **Vizag in Andhra Pradesh, India**, my home. If y
 - React Native for cross-platform mobile app development
 - **Next.js** for building fast and optimized web apps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1239&theme=tokyonight)
