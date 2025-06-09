@@ -1,25 +1,34 @@
+# Hey, I'm Pranav 👋
+I'm an 18-year-old developer who focuses mainly on **frontend development**, but I don't stop there.
+I build websites, mobile apps, and desktop applications—always aiming for clean, fast, and functional results.
 
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Pranav1239/Pranav1239/assets/142288127/fc2d8912-ce5e-4922-92f1-895188eaafa1)
+## 🛠️ Highlights
+- Built and shipped **4 production-ready mobile apps**
+- Completed **20+ frontend projects** with smooth backend integration
+- Managed **10+ full-stack projects**, reducing delivery time by 25%
+- Worked directly with D2C brands as a **solo tech partner**
+- Actively leading development as **Co-Founder & Frontend Lead at TechSolace**
 
-### Hi there 👋, my name is Pranav Kumar
-#### I am a Full Stack Developer 
+---
 
-Hello there! 👋 I'm a **17-year-old** with a passion for technology and coding. I've immersed myself in the world of programming and have honed my skills in the **MERN Stack**, making me adept at crafting dynamic and responsive web applications. I've also ventured into **mobile development**, adding another dimension to my skill set.
+## ⚡ A Little More About Me
+I used to work on the **backend**, and that gives me an edge—I understand what the frontend needs, when it needs it, and how to plan better for both.
+I like keeping things simple and clean. No over-complication—just fast, reliable interfaces that users actually enjoy using.
 
-exploring new ways to enhance the quality and functionality of my projects. But my journey doesn't stop there – I'm eagerly gearing up to dive into the exciting realm of **Web3**, eager to explore the potential of decentralized technologies.
+---
 
-I call the picturesque city of **Vizag in Andhra Pradesh, India**, my home. If you're interested in collaborating, discussing tech, or just want to connect, feel free to reach out to me at **pranavkumar192192@gmail.com**. Let's innovate and create together! 🚀🌟
-<br>
+## 🧰 Tech Stack
+**Languages**: JavaScript, TypeScript, HTML, CSS 
+**Frameworks**: React, Next.js, React Native, Expo, Electron.js  
+**APIs**: REST, OAuth, GRPC, WebSocket
+**Tools**: Git, VS Code, Postman, Figma  
+**Other**: CI/CD, Deployment, Debugging Flows, Version Control
 
-**Skills** :
-<br>
-- HTML, CSS, **JavaScript**, **TypeScript** , **React**
-- Tailwind CSS, Bootstrap, Sass
-- **Git** version control
-- Firebase and Supabase for real-time web apps
-- **Node.js** and Express.js for server-side development
-- **MongoDB** for database management
-- Redux for state management in web applications
-- React Native for cross-platform mobile app development
-- **Next.js** for building fast and optimized web apps
+---
+
+## 📫 Connect with Me
+- 🌐 Portfolio: https://www.pranavcodes.me
+- 📩 Email: (mailto:contact@pranavcodes.me)
+
+---
 
