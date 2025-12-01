@@ -1,30 +1,33 @@
-# Hey, I'm Pranav 👋  
-I'm an 18-year-old developer who mainly works on **frontend development**, but I also build **websites**, **mobile apps**, and **desktop apps** that are clean, fast, and functional.
+# 👋 Hey, I'm Pranav  
+
+I'm a **19-year-old frontend-focused developer** who builds **web apps, mobile apps, and desktop apps** that are fast, scalable, and clean.
+
+---
 
 ## Highlights  
-• Built and launched **4 production mobile apps**  
-• Completed **20+ frontend projects** with backend integration  
-• Led **10+ full-stack projects**, cutting delivery time by 25%  
-• Worked directly with D2C brands as a **solo tech partner**  
-• Co-founder and **Frontend Lead at TechSolace**
+- Launched **4 production-grade mobile apps**  
+- Completed **20+ frontend projects** with backend integration  
+- Led **10+ full-stack projects**, improving delivery speed by **25%**  
+- Worked with multiple **D2C brands** as their *solo tech partner*  
+- **Co-founder & Frontend Lead at Techsolace**  
+- Also handle **Operations & Product Management**, including part-time developer resources
 
 ---
 
 ## About Me  
-I started with **backend**, so I understand both sides. I know how to plan and build interfaces that work well with APIs and data.  
-I keep things simple—no unnecessary features, just smooth and reliable UI that users can count on.
+I started coding at **15**, and I've been working in tech for **4+ years** now.  
+I’ve worked with **5+ tech companies** as both a **solo dev** and a **team dev**, which helped me understand **corporate needs, fast delivery, scalable architecture, and clean design**.
 
----
+Right now, I’m focused on:  
+- **Building in-house products at Techsolace**  
+- **Shipping client products across different industries**
 
-## Tech Stack  
-**Languages**: JavaScript, TypeScript, HTML, CSS  
-**Frameworks**: React, Next.js, React Native, Expo, Electron.js  
-**APIs**: REST, OAuth, GRPC, WebSocket  
-**Tools**: Git, VS Code, Postman, Figma  
-**Other**: CI/CD, Deployment, Debugging, Version Control
+I build fast, iterate continuously, and let the product speak for itself.
 
 ---
 
 ## 📫 Contact  
-🌐 [Portfolio](https://www.pranavcodes.me)  
-📩 [Email](mailto:contact@pranavcodes.me)
+📩 **Email:** pranavkumar192192@gmail.com
+
+---
+
