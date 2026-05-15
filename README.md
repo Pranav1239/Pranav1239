@@ -27,7 +27,7 @@ I build fast, iterate continuously, and let the product speak for itself.
 ---
 
 ## 📫 Contact  
-📩 **Email:** pranavfoundry19@gmail.com
+📩 **Email:** pranav@techsolace.in
 
 ---
 
