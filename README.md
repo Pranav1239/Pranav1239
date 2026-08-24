@@ -1,33 +1,33 @@
-# 👋 Hey, I'm Pranav  
+# 👋 Hey, I'm Pranav
 
-I'm a **19-year-old frontend-focused developer** who builds **web apps, mobile apps, and desktop apps** that are fast, scalable, and clean.
-
----
-
-## Highlights  
-- Launched **4 production-grade mobile apps**  
-- Completed **20+ frontend projects** with backend integration  
-- Led **10+ full-stack projects**, improving delivery speed by **25%**  
-- Worked with multiple **D2C brands** as their *solo tech partner*  
-- **Co-founder & Frontend Lead at Techsolace**  
-- Also handle **Operations & Product Management**, including part-time developer resources
+I'm a 19-year-old frontend developer who builds web, mobile, and desktop apps and enjoys turning ideas into working products.
 
 ---
 
-## About Me  
-I started coding at **15**, and I've been working in tech for **4+ years** now.  
-I’ve worked with **5+ tech companies** as both a **solo dev** and a **team dev**, which helped me understand **corporate needs, fast delivery, scalable architecture, and clean design**.
+## Highlights
 
-Right now, I’m focused on:  
-- **Building in-house products at Techsolace**  
-- **Shipping client products across different industries**
-
-I build fast, iterate continuously, and let the product speak for itself.
-
----
-
-## 📫 Contact  
-📩 **Email:** pranav@techsolace.in
+* Launched **10+ production-grade mobile apps**
+* Completed **100+ projects** across different industries
+* Worked with **15+ development teams**
+* Worked with multiple **D2C brands and startups** as their tech partner
+* **Co-founder & COO at Techsolace**
+* Also handle **Operations & Product Management**
+* Worked on **client products, internal products, CRMs, dashboards, and SaaS platforms**
 
 ---
 
+## About Me
+
+I started coding at **15**, and I've been working in tech for **4+ years** now.
+I've worked across different teams, companies, and products, which helped me understand **product development, fast delivery, scalable systems, and clean user experiences**.
+
+Right now, I'm focused on:
+* **Building in-house products at Techsolace**
+* **Shipping client products across different industries**
+* **Working with development teams and managing product operations**
+
+---
+
+## 📫 Contact
+
+📩 **Email:** [npranavkumar19@gmail.com](mailto:npranavkumar19@gmail.com)
